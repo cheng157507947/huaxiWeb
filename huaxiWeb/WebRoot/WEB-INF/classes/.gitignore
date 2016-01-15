@@ -1,0 +1,8 @@
+/META-INF/
+/application.properties
+/applicationContext-task.xml
+/applicationContext.xml
+/com/
+/config/
+/ehcache/
+/log4j.properties

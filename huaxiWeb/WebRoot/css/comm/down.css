@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* ws begin */
+/* 全局 */
+body{ height:35px; overflow:hidden;}
+.foot{ text-align:center; width:100%; line-height:35px; background:#7b7b7b; color:#FFF;}

@@ -1,0 +1,29 @@
+﻿@charset "utf-8";
+/* ws begin */
+/* 全局 */
+body{ background:url(../../images/videoMonitor/title.jpg) no-repeat top left #4cac65;}
+.title{ height:96px; position:relative; background:url(../../images/videoMonitor/title-right.jpg) no-repeat top right; }
+.top{ position:absolute; top:60px; right:30px; }
+.dqyh{ color:#FFF; position:absolute; top:71px; left:20px; }
+
+.nav{ position:absolute; top:68px; left:245px; font-size:14px;}
+.nav-btn-xz{ display:inline-block; background:url(../../images/videoMonitor/nav-xz.gif); width:100px; height:28px; text-align:center; line-height:28px; margin:0 6px;}
+.nav-btn-xz a{ color:#2a8ecb;}
+.nav-btn-fxz{ display:inline-block;  width:67px; height:28px; text-align:center; line-height:28px;padding:0 10px;margin:0 6px;}
+.nav-btn-fxz a{ color:#fff;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

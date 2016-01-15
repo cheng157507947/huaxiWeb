@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="GB2312"?>
+<config>
+	<disk>F:</disk>
+	<snappath>F:\lib文件结构</snappath>
+	<videowindowcount>4</videowindowcount>
+	<showall>1</showall>
+	<server>
+		<userdomain>0</userdomain>
+		<serverdomain></serverdomain>
+		<serverip>172.16.5.10</serverip>
+		<serverport>9901</serverport>
+		<timedout>9</timedout>
+		<ftpserver>172.16.0.2</ftpserver>
+	</server>
+	<user>
+		<userid>fzx</userid>
+		<password>fzx</password>
+		<savepassword>1</savepassword>
+	</user>
+	<path>
+		<picture>D:\Program Files\</picture>
+		<record>D:\Program Files\</record>
+		<downpic>D:\Program Files</downpic>
+		<downrecord>D:\Program Files</downrecord>
+		<ExportExcel>D:\Program Files</ExportExcel>
+	</path>
+	<localRecordFormat>
+		<fileFormat>2</fileFormat>
+	</localRecordFormat>
+	<programinfo>
+		<programname>网视星视频监控系统</programname>
+		<companyname>金三立视频科技有限公司</companyname>
+	</programinfo>
+	<lockscreninfo>
+		<startlockscreen>1</startlockscreen>
+		<lockscreentime>50</lockscreentime>
+		<lockpassword>000000</lockpassword>
+	</lockscreninfo>
+	<IsContinue Des="是否连续播放">0</IsContinue>
+	<PicDelayTime Des="图片连续播放的延时时间，单位为秒">-1</PicDelayTime>
+</config>

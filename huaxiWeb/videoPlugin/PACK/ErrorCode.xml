@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="GB2312"?>
+<errorcode>
+	<ver001>
+	<error name="ST_OK"     value="0x00000000" desc="成功"></error>
+	<error name="ST_FAILED" value="0x00000001" desc="未知错误类型"></error>
+ 	<error name="" value="0x80000000" desc="未知的错误类型"></error>
+	<error name="" value="0x80008001" desc="SOCKET错误"></error>
+	<error name="" value="0x80008002" desc="XML解析出错"></error>
+	<error name="" value="0x80008003" desc="COM库错误"></error>
+	<error name="" value="0x80008004" desc="HTTP文档错误"></error>
+	<error name="" value="0x80008015" desc="发送请求失败, 网络连接错误"></error>
+
+	<error name="ST_ERRCONN_CMU" value="0x80008011" desc="连接服务器(CMU)不成功"></error>
+	<error name="ST_ERRCONN_MDU" value="0x80008012" desc="连接服务器(MDU)不成功"></error>
+	<error name="ST_ERRCONN_CSG" value="0x80008013" desc="连接服务器(CSG)不成功"></error>
+
+
+	<error name="" value="0x80008021" desc="等待服务器(CMU)响应超时"></error>
+	<error name="" value="0x80008022" desc="等待服务器(MDU)响应超时"></error>
+	<error name="" value="0x80008023" desc="等待服务器(CSG)响应超时"></error>
+
+	<error name="" value="0x80008030" desc="登陆请求被拒绝, 该用户已在其他地方登陆"></error>
+	<error name="" value="0x80008031" desc="登陆请求被拒绝, 用户/密码不正确"></error>
+	<error name="" value="0x80008032" desc="CMU回应: SMU连接失败"></error>
+	<error name="" value="0x80008033" desc="CMU回应: PU路由信息为空"></error>
+	<error name="" value="0x80008034" desc="CMU回应: PU路由查询失败"></error>
+
+	<error name="" value="0x80008040" desc="SIP解析过程出现异常错误"></error>	
+	<error name="" value="0x80008041" desc="MDU回应: 找不到指定设备"></error>
+	<error name="" value="0x80008042" desc="MDU回应: 请求不成功, 其他错误信息"></error>
+	<error name="" value="0x80008043" desc="分析MDU的回应, 未找到连接端口号或端口号错误"></error>
+	<error name="" value="0x80008044" desc="MDU回应:服务器忙, 请稍后再试"></error>
+
+	<error name="" value="0x80008051" desc="CMU回应: 查询CSG信息失败"></error>
+	<error name="" value="0x80008052" desc="CMU回应: 您没有此权限"></error>
+	
+	</ver001>
+</errorcode>

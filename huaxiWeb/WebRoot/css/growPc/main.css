@@ -1,0 +1,68 @@
+@charset "utf-8";
+body{ margin:0; padding:0; background:#f7f7f7; }
+.box:after{content:".";display:block; height:0px; clear:both; visibility:hidden;}
+
+
+.main{ padding:10px; position:relative;}
+.main-left{ width:220px;}
+.bk-bt{ height:30px; background:#f7f7f7; position:relative; border-bottom:1px solid #c7c7c7;}
+.bk-bt span{ display:inline-block; padding-left:10px; text-align:left; height:27px; line-height:27px; font-size:14px; color:#009944;}
+.more{ position:absolute; top:5px; right:5px; color:#999999;}
+.more a{color:#999999;}
+.cjdtp{ width:285px; height:280px; text-align:center; padding-top:5px;}
+.qtsj{border:1px solid #a8a8a8; width:220px; height:300px; background:#f7f7f7;}
+.qtsj-ul{ width:100%; margin:0; margin-top:5px; padding:0;}
+.qtsj-ul li{ height:28px; border-bottom:1px solid #eeeff1;}
+.qtsj-ul li span{ display:inline-block; padding-left:15px; width:190px;}
+.main-right{ position:absolute;  top:10px;left:243px; right:10px; height:620px;}
+.ssjk{ width:100%; height:601px; background:#fff; border:1px solid #a8a8a8; position:relative;}
+
+.bjzt{ position:absolute; top:7px; right:15px; font-size:14px;}
+.qxzbul{ width:100%;}
+.qxzbul li{ width:16%; height:250px; padding:10px 0; float:left; text-align:center;}
+.qxzbwz{ font-size:18px;}
+.flash{ width:170px; height:170px; position:relative; margin:0 auto;}
+.cssz{ position:absolute; width:118px; height:118px; text-align:center; top:30px; left:25px; font-size:22px; background:url(../../images/growPc/icon-bg.png) no-repeat; line-height:118px;}
+.qxzb{ height:50px;}
+.qxzb img{ vertical-align:middle;}
+
+.three{ float:left; color:#333; font-size:12px; margin:50px 0 0 15px;font-size:14px; }
+.threepic{ float:right; width:85px; height:85px; margin:15px 15px 0 0;}
+.threepic img{width:85px; height:85px;-moz-border-radius: 45px;-webkit-border-radius: 45px;border-radius:45px; border:1px solid #b2b2b2;}
+.dyul{ clear:both; font-size:14px; color:#333333; padding-top:15px;}
+.dyul li{ padding-left:10px; line-height:30px; height:30px; overflow:hidden;font-size:14px; width:195px;white-space: nowrap;
+	/*text-overflow: ellipsis;*/}
+.showpic{ height:30px; line-height:30px; background:#ececec; border-bottom:1px solid #c7c7c7;}
+.showpic-name{ float:left; color:#009944; font-size:14px; padding:3px 0 0 10px;}
+.showpic-time{ float:right; padding-right:10px; padding-top:5px;}
+.showpicture{ width:100%; height:570px;}
+.showpicture img{width:100%; height:570px;}
+.rightpic{ position:absolute; bottom:0; right:0; z-index:999; border:1px solid #494949; width:349px; height:201px;}
+.rightpic img{width:349px; height:201px;}
+
+.tab01{ width:99%; border:1px solid #c7c7c7; border-collapse:collapse; margin:0 auto; margin-top:5px; text-align:center;}
+.tab01 th{ background:#f6f6f6; border:1px solid #c7c7c7; height:30px;}
+.tab01 td{  border:1px solid #c7c7c7; height:45px;}
+.querybtn{ margin-left:20px; border:0; background: url(../../images/growPc/selbtn.gif) no-repeat; width:80px; height:20px; line-height:20px; text-align:center; color:#FFF; cursor:pointer;}
+.deletebtn{ margin-left:20px; border:0; background: url(../../images/growPc/noselbtn.gif) no-repeat; width:80px; height:20px; line-height:20px; text-align:center; color:#000; cursor:pointer;}
+.operateTop{height:20px;margin: 15px 10px;line-height: 20px;}
+.dateQuery{width: 80px;}
+.page{clear:both; height:15px; line-height:15px;margin-left: 10px;}
+.btn{ background:#d9d9d9; border:1px solid #6a6a6a; text-align:center; padding:0 10px; height:20px; line-height:15px;}
+.setupInput{width: 150px;margin-left: 100px;}
+.addTd{text-align: left; padding: 5px 0 5px 100px;}
+.noticeMsg { margin:5px 10px; padding: 4px 4px 4px 30px; border: 2px solid #dd0000; font-size: 1.1em; border-color: rgb(159, 207, 159); color: rgb(0, 95, 0); }
+.errorMsg { margin:5px 10px; padding: 4px 4px 4px 30px; border: 2px solid #dd0000; font-size: 1.1em; border-color: rgb(221, 0, 0); color: rgb(136, 0, 0); }
+
+
+
+
+
+
+
+
+
+
+
+
+

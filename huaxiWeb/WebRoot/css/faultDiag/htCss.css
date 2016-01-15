@@ -1,0 +1,160 @@
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+html,body,form{
+	height:100%;
+	}
+input,select,textarea{
+	outline:none;
+	}
+a{
+	cursor:pointer;
+	}
+a img{
+	border:none;
+	}
+.login_admin{
+	background:url(../../images/faultDiag/login_admin.jpg) center top no-repeat;
+	min-width:1000px;
+	min-height:586px;
+	}
+.login_admin_fj{
+	background:url(../../images/faultDiag/login_admin_fj.jpg) center top no-repeat;
+	min-width:1000px;
+	min-height:586px;
+	}
+.login_company{
+	background:url(../../images/faultDiag/login_company.jpg) center top no-repeat;
+	min-width:1000px;
+	min-height:586px;
+	}
+.login_expert{
+	background:url(../../images/faultDiag/login_expert.jpg) center top no-repeat;
+	min-width:1000px;
+	min-height:586px;
+	}
+.main{
+	margin-top:189px;
+	margin-left:500px;
+	right:0;
+	}
+.txt_area{
+	position:relative;
+	left:106px;
+	width:280px;
+	}
+.ft1{
+	font-family:"΢���ź�","����";
+	font-size:14px;
+	color:#000000;
+	font-weight:bold;
+	text-align:center;
+	line-height:50px;
+	height:45px;
+	}
+.ft2{
+	font-family:"����";
+	font-size:12px;
+	color:#999999;
+	line-height:18px;
+	height:18px;
+	}
+.inputUn{
+	background:url(../../images/faultDiag/login_01.jpg) no-repeat;
+	width:272px;
+	height:35px;
+	margin-bottom:10px;
+	}
+.username{
+	width:227px;
+	height:35px;
+	line-height:35px \0;
+	*line-height:35px !important;
+	font-family:"����";
+	font-size:12px;
+	color:#000000;
+	border:none;
+	background:none;
+	padding-left:5px;
+	padding-right:40px;
+	}
+.inputPw{
+	background:url(../../images/faultDiag/login_04.jpg) no-repeat;
+	width:272px;
+	height:35px;
+	margin-bottom:10px;
+	}
+.password{
+	width:232px;
+	height:35px;
+	line-height:35px \0;
+	*line-height:35px !important;
+	font-family:"����";
+	font-size:12px;
+	color:#000000;
+	border:none;
+	background:none;
+	padding-left:5px;
+	padding-right:40px;
+	}
+.current{
+	font-family:"����";
+	font-size:12px;
+	color:#000000;
+	width:150px;
+	}
+.default{
+	font-family:"����";
+	font-size:12px;
+	color:#000000;
+	}
+.feedback{
+	text-decoration:none;
+	float:right;
+	width:98px;
+	height:28px;
+	line-height:28px;
+	display:block;
+	font-family:"����";
+	font-size:14px;
+	color:#ffffff;
+	text-align:center;
+	}
+.copyright{
+	width:1000px;
+	position:relative;
+	bottom:0;
+	text-align:center;
+	}
+.ft3{
+	font-family:"����";
+	font-size:14px;
+	color:#ffffff;
+	line-height:30px;
+	white-space:nowrap;
+	}
+.ft4{
+	font-family:"����";
+	font-size:12px;
+	color:#ffffff;
+	line-height:30px;
+	white-space:nowrap;
+	}
+.checkCode{
+	margin-bottom: 15px;
+}
+.checkCode input{
+	height: 25px;
+	width: 120px;
+	}
+.checkCode span{
+	color:#999999;
+	font-size: 14px;
+}
+.checkCode img{
+	float:right;
+	margin-right: 50px;
+}
